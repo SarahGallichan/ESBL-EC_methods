@@ -4,7 +4,7 @@ This is a repository for all the raw data and R code necessary to produce the fi
 
 [**Optimized methods for the targeted surveillance of extended-spectrum beta-lactamase-producing Escherichia coli in human stool**](https://journals.asm.org/doi/10.1128/spectrum.01058-24?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 
-Sarah Gallichan^1,2^, Sally Forrest^2^, Esther Picton-Barlow^1^, Claudia McKeown^1^, Maria Moore^1^, Eva Heinz^1,3,4^, Nicholas A Feasey^1,2^, Joseph M Lewis^1,5^, Fabrice E Graf^1^
+Sarah Gallichan<sup>1,2<sup>, Sally Forrest^2^, Esther Picton-Barlow^1^, Claudia McKeown^1^, Maria Moore^1^, Eva Heinz^1,3,4^, Nicholas A Feasey^1,2^, Joseph M Lewis^1,5^, Fabrice E Graf^1^
 
 1 Department of Clinical Sciences, Liverpool School of Tropical Medicine, Liverpool, UK
 2 The School of Medicine, University of St Andrews, St Andrews, UK
