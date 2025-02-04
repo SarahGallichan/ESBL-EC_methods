@@ -14,10 +14,10 @@ Nicholas A Feasey<sup>1,2</sup>,
 Joseph M Lewis<sup>1,5</sup>, 
 Fabrice E Graf<sup>1</sup>
 
-1 Department of Clinical Sciences, Liverpool School of Tropical Medicine, Liverpool, UK__
-2 The School of Medicine, University of St Andrews, St Andrews, UK__
-3 Department of Vector Biology, Liverpool School of Tropical Medicine, Liverpool, UK__
-4 Strathclyde Institute of Pharmacy & Biomedical Sciences, University of Strathclyde, Glasgow, UK__
+1 Department of Clinical Sciences, Liverpool School of Tropical Medicine, Liverpool, UK  
+2 The School of Medicine, University of St Andrews, St Andrews, UK  
+3 Department of Vector Biology, Liverpool School of Tropical Medicine, Liverpool, UK  
+4 Strathclyde Institute of Pharmacy & Biomedical Sciences, University of Strathclyde, Glasgow, UK  
 5 Department of Clinical Infection, Microbiology & Immunology, University of Liverpool, Liverpool, UK
 
 
