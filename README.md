@@ -16,7 +16,7 @@ Fabrice E Graf<sup>1</sup>
 
 1 Department of Clinical Sciences, Liverpool School of Tropical Medicine, Liverpool, UK  
 2 Department of Vector Biology, Liverpool School of Tropical Medicine, Liverpool, UK  
-3 Strathclyde Institute of Pharmacy & Biomedical Sciences, University of Strathclyde, Glasgow, UK
+3 Strathclyde Institute of Pharmacy & Biomedical Sciences, University of Strathclyde, Glasgow, UK  
 4 The School of Medicine, University of St Andrews, St Andrews, UK  
 5 Department of Clinical Infection, Microbiology & Immunology, University of Liverpool, Liverpool, UK
 
